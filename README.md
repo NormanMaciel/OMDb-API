@@ -31,7 +31,7 @@ Con esta integración, puedes realizar búsquedas de películas y series por tí
 1. Clonar el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/omdb-java-integration.git
+    git clone https://github.com/NormanMaciel/OMDb-API.git
     ```
 
 2. Obtener una API Key de OMDb:
@@ -42,21 +42,7 @@ Con esta integración, puedes realizar búsquedas de películas y series por tí
 
     - Añade tu API Key en el archivo `config.properties` o en el código donde se realiza la petición HTTP.
 
-4. Compilar el proyecto:
-
-    Puedes compilar y ejecutar el proyecto utilizando Maven o Gradle.
-
-    - **Con Maven**:
-
-      ```bash
-      mvn clean install
-      ```
-
-    - **Con Gradle**:
-
-      ```bash
-      gradle build
-      ```
+4. Compilar el proyecto
 
 ## Uso
 
